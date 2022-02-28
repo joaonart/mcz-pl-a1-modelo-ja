@@ -1,0 +1,280 @@
+
+UNIVERSIDADE PRESBITERIANA MACKENZIE
+
+
+
+
+
+
+
+
+
+
+
+CIENTISTA DE DADOS NAS ORGANIZAÇÕES
+ANÁLISE DOS DIFERENTES PAPÉIS DO CIENTISTA DE DADOS
+
+JOÃO ALVES DE OLIVEIRA NETO
+PROFA. SUELI DOS SANTOS LEITÃO
+TURMA 01C
+
+
+
+
+
+
+
+
+
+
+
+BARUERI
+2022
+JOÃO ALVES DE OLIVEIRA NETO
+
+
+
+
+
+
+
+
+
+
+
+CIENTISTA DE DADOS NAS ORGANIZAÇÕES
+ANÁLISE DOS DIFERENTES PAPÉIS DO CIENTISTA DE DADOS
+
+Trabalho apresentado pelo acadêmico João Alves de Oliveira Neto como exigência do curso de Especialização em Ciência de Dados (Big Data Processing and Analytics) da Universidade Presbiteriana Mackenzie, disciplina Cientista de Dados Nas Organizações, sob a orientação da professora Sueli Dos Santos Leitão.
+
+
+
+
+
+
+
+
+
+
+
+
+BARUERI
+2022
+
+      
+SUMÁRIO
+
+
+INTRODUÇÃO	04
+1. VAGAS SELECIONADAS	05
+	1.1. Cientista de Dados Sr (Fintech)	05
+	1.2. Cientista de Dados Sr (Consultoria)	06
+	1.3. Cientista de Dados Sr (Varejo Online)	07
+2. ANÁLISE	09
+	2.1. Posicionamento na estrutura organizacional	09
+	2.2. Requisitos e competências	10
+	2.3. Papel a ser exercido	11
+CONSIDERAÇOES FINAIS	13
+REFERÊNCIAS	14
+INTRODUÇÃO
+      
+      Estamos vivendo um contexto de mudanças e inovação como jamais visto na história, entender e se adaptar a esse novo contexto exige um esforço extra quando olhamos sob a perspectiva empresarial, onde temos modelos de negócio estabelecidos em conceitos que ficam obsoletos à medida que novas formas de atender as necessidades dos clientes e consumidores surgem no mercado. 
+      As empresas que buscam se manter competitiva dentro desse novo contexto precisam revisar o seu modelo de negócio, a forma como desenvolvem e disponibilizam seus serviços e produtos no mercado, e para tanto se torna fundamental um diagnóstico do momento atual e definir quais são as prioridades para alcançar os objetivos estratégicos de curto/médio e longo prazo, a essa altura do campeonato todos sabem que tomar decisões baseadas em achismo não vai funcionar como já funcionou em algum momento no passado, os tempos atuais exigem precisão e profundidade nas análises, prever cenários que indiquem os melhores caminhos otimizando tempo e custo, interação com os clientes em tempo real de forma personalizada e em escala.
+      Para atender todas essas necessidades surge novas posições dentro das empresas que vão trabalhar exatamente para capturar os dados, armazená-los de forma segura, disponibilizá-los para uso analítico/transacional e gerar insights para tomadas de decisão mais assertivas, fazer esse trabalho exigirá competências técnicas e comportamentais multidisciplinares, onde se faz necessário montar equipes com conhecimentos específicos para os propósitos de cada empresa, na atualidade vemos as seguintes posições atuando diretamente nas frentes de dados, engenheiros de dados (desenvolvendo pipeline de processamento de dados ETL(Export, Transformation and Load)), analistas de business intelligence (desenvolvendo dashboards para acompanhamento dos KPIs (Key Performance Indicator)) e cientista de dados (desenvolvendo modelos para análises preditivas e validação de hipóteses).
+      Nesse trabalho vamos realizar uma análise comparativa de três vagas que diferentes empresas estão buscando profissionais para atuar na área de dados, ao final será apresentado a minha conclusão dessa análise.
+      
+      
+      
+      
+      
+1. VAGAS SELECIONADAS
+      
+      Para esse trabalho optei por realizar a seleção de três vagas voltadas para a posição de cientista de dados, adotei o critério de buscar diferentes seguimentos que buscam esse tipo de profissional, a busca das vagas foi realizada na plataforma LinkedIn (LINKEDIN, 2022), optei pela mesma por ser hoje a principal plataforma utilizada pelos profissionais de tecnologia e recrutadores no mundo.
+      
+1.1 Cientista de Dados Sr (Fintech)
+
+      A primeira vaga selecionada foi publicada pela empresa PagSeguro uma fintech brasileira que está presente no mercado desde 2006. O meu critério para seleção foi pelo fato de ser uma fintech que processa milhares de dados financeiros diariamente. (CIENTISTA DE DADOS SR FINTECH, 2022)
+      
+Requisitos
+* Superior em Ciência da Computação, Matemática, Estatística, Economia, Engenharias ou áreas correlatas.
+* Experiência com a elaboração de comunicações e apresentações orais e escritas.
+* Experiência com análise de dados para descobrir padrões ocultos.
+* Conhecimento em ferramentas de visualização de dados.
+* Experiência com análise e resolução de problemas (Problem Solver).
+* Experiência em alguns do itens de programação Python e seu ecossistema de análise de dados (Pandas, Scikit-Learn, Numpy).
+* Experiência na extração e análise de banco de dados (SQL).
+* Experiência com limpeza e transformação de dados (Feature Engineering).
+Desejável
+* Mestrado ou Doutorado em Ciência da Computação, Matemática, Estatística, Economia, Engenharias ou áreas correlatas.
+* Experiência com navegação e script em um ambiente de linha de comando Unix.
+* Experiência com o ambiente Amazon AWS, Airflow, Jenkins, Git, Spark e soluções de AutoML.
+Principais atividades
+* Realizar análises descritivas e exploratórias para entendimento de dados e levantamento de hipóteses técnicas e de negócio.
+* Desenvolvimento de modelagem preditiva utilizando o estádo da arte em Machine Learning e as métricas adequadas para seleção de modelos..
+* Validar tecnicamente e com o time de negócio a utilidade e o cenário de utilização dos modelos preditivos desenvolvidos.
+* Desenhar, junto com PO's e especialista de negócios POCs para certificação prática do desempenho dos modelos (teste A/B, controle/intervenção, planejamento e experimentos).
+* Colaborar com um time de estatísticos, engenheiros em machine learning, economistas e especialistas em linguagem (NLP, NLU, NLG) para resolver problemas usando Data Science.çl.
+* Auxiliar e dar suporte ao time em validação de estruturas de dados e em Feature Engineering.
+* Trabalhar em conjunto com o engenheiro de dados e arquitetos de dados na criação de Datasets, no formato necessário para treinamento de múltiplos modelos.
+* Coletar, limpar, armazenar, organizar, integrar dados e ajudar na criação de pipelines de dados (com a equipe de engenheiros).
+* Auxiliar na expansão do uso da ciência de dados nas frentes de negócios: participar de reuniões com clientes (principalmente internos), auxiliar estruturando projetos e projetando soluções com base nas necessidades e problemas a serem resolvidos.
+* Comunicar com clareza os resultados por meio de apresentações e relatórios para clientes.
+      
+      
+1.2 Cientista de Dados Sr (Consultoria)
+      
+      A segunda vaga selecionada foi publicada pela empresa EY (Ernst & Young) multinacional inglesa que esta presente no mercado desde 1989. O meu critério de seleção foi pelo fato de não se tratar de uma empresa que tem o core business em tecnologia. (CIENTISTA DE DADOS SR CONSULTORIA, 2022)
+Requisitos
+* Graduação em Engenharias, Ciência da Computação, Física, Matemática, Estatística e correlatas.
+* Desejável pós-graduação na área de tecnologia.
+* Experiência em gestão de projetos, com perfil hands on.
+* Experiência na comunicação de resultados
+* Experiência sólida em análise de dados
+* Experiencia com arquitetura cloud (Microsoft Azure é um diferencial).
+* Experiencia em projetos em Python (sklearn, tensorflow, keras, pandas, matplotlib...)
+* Experiência desejável com projetos em Hadoop e Spark.
+* Necessário conhecimento em base de dados relacionais/não-relacionais
+* Serão diferenciais: conhecimento em PowerBI e ter atuado em consultoria e/ou em clientes de diversos segmentos
+* Necessário inglês nível avançado e Espanhol será um diferencial.
+Desejável
+* Não informado.
+Principais atividades
+* Desenhar, arquitetar, planejar e analisar soluções para os problemas de negócio do cliente, utilizando ferramentas de modelagem matemática e estatística.
+* Coordenar todo o desenvolvimento do projeto, da preparação dos dados, até o seu consumo pelo usuário final, passando pelo saneamento dos dados, análise exploratória, modelagem estatística e comunicação dos resultados para o cliente.
+* Atuar na gestão e ser ponto focal dos projetos, delegando e executando as atividades, interação com o cliente.
+* Garantir a qualidade do serviço entregue ao cliente, através da revisão e validação dos resultados e métodos desenvolvidos no projeto.
+      
+      
+1.3 Cientista de Dados Sr (Varejo Online)
+
+	A terceira vaga selecionada foi publicada pela empresa Shopee multinacional de Singapura fundada em 2015. O meu critério de seleção foi pelo fato de a empresa processar milhares de dados de compras online diariamente. (CIENTISTA DE DADOS SR VAREJO ONLINE)
+	
+Requisitos
+* Experiência comprovada como cientista de dados
+* Experiência em Python / SQL / NoSQL / R / NLTK (Python)
+* Experiência para análise estatística e modelagem preditiva
+* Experiência em aprendizado de máquina
+* Habilidades de comunicação interpessoal
+* Mentalidade voltada para negócios
+* Espírito de liderança
+* Inglês Intermediário/Avançado
+Desejável
+* Não informado
+Principais atividades
+* Planejar projetos de dados.
+* Criar sistemas analíticos e modelos preditivos.
+* Criar sistema de transcrição de mensagens de texto dos consumidores ou mensagens de voz, identificando assim a necessidade do consumidor Shopee visando a melhoria da experiência do usuário.
+* Liderar procedimentos de mineração e coleta de dados.
+* Assegurar a qualidade e integridade das análises apresentadas.
+* Interpretar e analisar problemas com os dados obtidos das ferramentas.
+* Testar o desempenho dos modelos preditivos e buscar melhoria dos mesmos.
+* Visualizar dados e criar relatórios de fácil interpretação das lideranças.
+* ?Alinhar todos os projetos de dados com as metas da organização.
+
+
+
+
+
+
+2. ANÁLISE
+      
+      Após realizar a leitura das três vagas para a posição de CIENTISTA DE DADOS SR, podemos notar que existem semelhanças e especificidades e cada uma das vagas, ou seja, apesar do mesmo título para esse cargo, cada empresa necessita de algumas habilidades específicas nessa posição, para otimizar a nossa análise vou me aprofundar em três pontos: 
+* Posicionamento na estrutura organizacional.
+* Requisitos e competências
+* Papel a ser exercido.
+
+2.1 Posicionamento na estrutura organizacional
+
+	Nesse momento vamos aprofundar a nossa análise dentro do contexto da estrutura organizacional, entendendo onde o profissional deve se encaixar dentro da empresa, vale destacar que essa informação não está explicita em nenhuma das vagas, entretanto olhando o contexto das principais atividades podemos deduzir (ainda que seja com uma margem de erro) a posição dentro da estrutura.
+	
+CIENTISTA DE DADOS SR FINTECH
+De acordo com as principais atividades, esse profissional vai precisar se aprofundar tecnicamente nos temas, dominar tecnologias para viabilizar as soluções assim como estar próximo das áreas clientes e garantir a visibilidade do andamento das demandas, dentro desse contexto é possível deduzir que ele ocupará uma posição de especialista/líder técnico com reporte direto a uma gerência em tech, ou atuando como par de vários gerentes em tech. 
+CIENTISTA DE DADOS SR CONSULTORIA
+De acordo com as principais atividades e requisitos, esse profissional deve ocupar uma posição de liderança técnica, com atuação junto a profissionais que estão em outras regiões, onde caberá ao mesmo captar oportunidades, organizar e planejar a execução de demandas, esse profissional certamente trabalhará próximo a um gerente/diretor comercial, reportando para um gerente sênior, que pode ser em tech ou não, detalhe que esse profissional pode alterar entre descer no dia a dia mais técnico e voltar para ações mais táticas próximas da gestão.
+CIENTISTA DE DADOS SR VAREJO ONLINE
+De acordo com as principais atividades e requisitos, esse profissional terá um escopo de trabalho técnico muito forte, trabalhando com profissionais que atuam em outras regiões, aqui fica difícil identificar se ele ocupará uma posição de liderança técnica, pois a descrição das principais atividades não deixa isso tão claro, podemos deduzir aqui que esse profissional deve responder para um gestor em tech que pode estar em um nível de coordenação/gerencia.
+
+
+2.2 Requisitos e competências
+
+      Quando falamos em posições técnicas se torna fundamental entender os requisitos mínimos que o profissional precisa ter para ocupar a posição, agora vamos aprofundar a nossa análise nesse quesito.
+      
+CIENTISTA DE DADOS SR FINTECH
+De acordo com os requisitos esse profissional precisa ter uma graduação em cursos voltados para exatas, onde tenha desenvolvido raciocínio lógico e matemático/estatístico, outro ponto que vale destacar é o fato de ser desejável que ele tenha um mestrado ou doutorado em cursos de exatas, além disso por ser uma cadeira sênior, espera do candidato bagagem profissional efetiva na área, com experiência em atividades relacionada a análise, tratamento e processamento de dados, outro ponto que merece o destaque é a ênfase que a empresa traz para comunicação, certamente o profissional atuará em contextos que necessitam dessa habilidade bem desenvolvida.
+CIENTISTA DE DADOS SR CONSULTORIA
+De acordo com os requisitos esse profissional precisa ter uma graduação em cursos voltados para exatas, onde tenha desenvolvido raciocínio lógico e matemático/estatístico, outro ponto que merece destaque é que é desejável que ele tenha uma especialização em tecnologia, provavelmente no contexto dos projetos esse profissional deverá se comunicar com outros profissionais de tech, podendo ser publico interno/externo, uma outra habilidade essencial e a comunicação em outros idiomas como o inglês que precisa ser avançado e o espanhol.
+
+CIENTISTA DE DADOS SR VAREJO ONLINE
+De acordo com os requisitos esse profissional precisa ter fortes habilidades de comunicação e relacionamento, diferentemente das outras empresas que analisamos não é exigido nenhum tipo de graduação ou especialização, porém ele precisa ter experiência comprovada como cientista de dados, outra habilidade necessária é a comunicação em outros idiomas como o inglês, além de forte conhecimento técnico em tecnologias especificas, voltadas para o contexto de dados.
+
+
+2.3 Papel a ser exercido
+	
+	O último item a ser comparado em nossa análise é o papel a ser exercido, esse item é fundamental até mesmo para que o profissional que pretende se aplicar para participar do processo, consiga entender qual vaga esta mais alinhada ao seu plano de carreira, esse é um ponto onde geralmente a maioria das empresas pecam ao publicar uma vaga, onde não conseguem deixar claro exatamente o que se espera do profissional.
+	
+CIENTISTA DE DADOS SR FINTECH
+De acordo com as principais atividades podemos deduzir que o profissional atuará num contexto técnico colocando a mão na massa, entretanto em alguns momentos ele terá que liderar discussões mais técnicas e servir como ponto de apoio para outras equipes.
+CIENTISTA DE DADOS SR CONSULTORIA
+
+
+De acordo com as principais atividades, esse profissional terá uma atuação mais forte na organização e liderança dos temas técnicos, caberá ainda ao mesmo realizar interface com clientes internos e externos.
+
+
+
+CIENTISTA DE DADOS SR VAREJO ONLINE
+De acordo com as principais atividades, esse profissional terá uma atuação técnica muito forte no seu dia a dia, servirá como ponto de apoio para outras equipes, com a missão de manter os projetos sincronizados com outros times dentro da organização. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSIDERAÇOES FINAIS
+      
+      Ao realizar essa análise comparativa cheguei a conclusão que as empresas tem elaborado o job description dos profissionais que vão atuar na área de dados, aqui sendo mais especifico aos cientistas de dados, esperando dos mesmos, conhecimento acadêmico (vale destacar que para uma das empresas esse não é mais um item obrigatório), experiência em outros projetos de dados, conhecimento técnico em linguagens de programação, banco de dados, técnicas de análise, limpeza, modelagem e processamento de dados, porém cada uma alinhando o perfil do profissional as necessidades da empresa, o que faz sentido mas dificulta para a empresa encontrar o profissional ideal, quando se exige conhecimento e experiência em várias disciplinas de dados (criando aquela vaga para o profissional unicórnio, ou seja, que provavelmente não existe).
+      Vale mencionar aqui que as vagas para fintech e varejo online, trazem a percepção de que existe uma estrutura mais robusta onde o profissional deve ter um plano de carreira mais estruturado dentro dessas empresas, já a vaga da consultoria, mostra a necessidade de um profissional que consiga atuar no contexto técnico mas tenha uma atuação mais próxima a um consultor do que um analista, ficando a sensação de que precisa literalmente dançar conforme a música, dessa forma fica um ponto de atenção ao profissional que pretende aplicar para essa vaga, se é isso que o mesmo esta buscando, ou se essa atuação geraria conflito com o plano de carreira do mesmo.
+      Numa visão geral entendo que o mercado está superaquecido para os profissionais de dados, e que as empresas estão contratando de acordo com as suas necessidades, mesmo que ainda não tenham um plano claro para esses profissionais, o fato é que ninguém quer ficar para trás nessa corrida pelos dados, e que também não existe uma unanimidade em relação ao perfil ideal.
+      
+      
+      
+      
+      
+      
+      
+      
+
+REFERÊNCIAS
+
+LINKEDIN, WIKIPEDIA: a enciclopédia livre. Wikimedia, 2022. Disponível em: https://en.wikipedia.org/wiki/LinkedIn. Acesso em: 28 fev, 2022.
+
+CIENTISTA DADOS SR FINTECH, LINKEDIN: online service provider company. LinkedIn Corporation, 2022. Disponível em: https://www.linkedin.com/jobs/view/2919107774/?eBP=CwEAAAF_QNapww-wONZr7Yt7XyH0nB_HeIw0f-STrsaYd7-uti7kGpqap2A3R3oE2iKniI98-tCtS8oW5yRnLgiX8QrvcB766tPBOlqZhjhZ0_n5BekCd8ZJfsD6-uk-vH6j5nLzv7mQMKRff9KgME9WScHWLc_0ldQnbHWULXau4S8dnxF-G86MJkr7ubM9IxNSzecw7JlMPrhNz1JvFYstE1LGaUMp1itMlu2KljF6pvR9qsKh3XPBKeVPRnG6XY33IBEQg1-IT1BCGOeaUaKWWIo24xay8CWd8UPMNpS0XUNFC7KqpXMCzhDFg0iiKxjJwhk-BTlUnRpdymiAl7LAV5CB6GAR_06znBbWRJJx_L4IVr8vyNDuPN4R2ehj-XA8XMM&recommendedFlavor=IN_NETWORK&refId=%2Fw9qCsW1aQcbr+Tb%2FkeoAw==&trackingId=eRNSgviH2mrbVERJDC0LOw==&trk=flagship3_search_srp_jobs. Acesso em: 28 fev, 2022.
+
+CIENTISTA DE DADOS SR CONSULTORIA, LINKEDIN: online service provider company. LinkedIn Corporation, 2022. Disponível em: https://www.linkedin.com/jobs/view/2685940392/?eBP=CwEAAAF_QNapw_7A1aTbyRmcJi8186DnxXil3elIHIIOfwrMrLeqMLR-vza-w318tKjfNCRfXf58MgnEa-zt24Sry4eFytzNpTmsPnmq7keggQtwKFqZJHSRRF7RzSBlNmEuol4VRQBu05H4FjI4qSo1bi7vsDBA2qiENhPokYqm9FNmOTuC-KzW0vRdKkzgEUGZAW0Vvnqory0EpgIUuEEq2_8C-ZQ94rTR0CcnHOH9HmKhB7TAu51x3HcoZz4c4CyJG6UP8i7iDz4wVP1gi1_2IYFTaP9iMjr9cpeUBnJ6c0D8aYW2XKQehlCxVxR0O_01Lrm330sI-C-nw4-ySsK1ozMDxIOPxP-pHYg7mxBBNxkaqhzqmibBiujsfgWMjGVLlW4&recommendedFlavor=IN_NETWORK&refId=%2Fw9qCsW1aQcbr+Tb%2FkeoAw==&trackingId=RFz4JNCl0t3yaLTMHQhEog==&trk=flagship3_search_srp_jobs. Acesso em: 28 fev, 2022.
+
+CIENTISTA DE DADOS SR VAREJO ONLINE, LINKEDIN: online service provider company. LinkedIn Corporation, 2022. Disponível em: https://www.linkedin.com/jobs/view/2876281582/?eBP=CwEAAAF_QNapw-HrqLDq8fUyOcQhtbGqyxXqgpGIdXf4035E1jdSgyOhnxyhejadPQBifg57olLcNezxbdAGlhPlVOlCG5QZDDSmHfjw480l7oNA2CRs8GxnTixkqpJdlh8s63t8RrBYj_5nyJOshakSX8czIOLbovQRERwlPM2KefgfLQq0GL4JMv980St21DJYPYTszzlAME9Cmjbk6HAorxqn6gP5IMHEplmpLMf_TptlYFw9gGyx5U7hbokQ2kBHw8oq7Uskp2Pv8GZxAe4cgGTz_em-hQj0Gm8fUAyj48KUfassaPoHbAZJ5YIgkAFsn7AAuZfHv8ypkbukE7WeOB6xUZvWo4YsLUvkIG71Lx9MkdQdL3W-TIocMr6BXk2f-FA&recommendedFlavor=TOP_APPLICANT&refId=%2Fw9qCsW1aQcbr+Tb%2FkeoAw==&trackingId=77Rj1%2F4m8G8W9ds2s3HfVA==&trk=flagship3_search_srp_jobs. Acesso em: 28 fev, 2022.
+4
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
